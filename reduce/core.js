@@ -85,7 +85,7 @@ function luckyNumbers (array) {
     }
     return previous + current + ", ";
     console.log(previous + current);
-  }, "Your lucky numbers are ");
+  }, "Your lucky numbers are: ");
 }
 
 luckyNumbers(input3);
